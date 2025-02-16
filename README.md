@@ -30,12 +30,20 @@ The **Address Builder** is a Java-based console application that collects, forma
 Below are some snapshots of the program in action:  
 
 ### ✅ User Input in Action  
-![User Input](path/to/user_input_screenshot.png)  
+
+<a href="https://github.com/user-attachments/assets/dc163891-12eb-43e4-b0a5-3758e755a124">
+    <img src="https://github.com/user-attachments/assets/dc163891-12eb-43e4-b0a5-3758e755a124" width="500" alt="Screenshot 2025-02-16 at 12 52 55 AM">
+</a>
+
+<a href="https://github.com/user-attachments/assets/f9c6d394-a95a-424a-854d-2567355a39f3">
+    <img src="https://github.com/user-attachments/assets/f9c6d394-a95a-424a-854d-2567355a39f3" width="500" alt="Screenshot 2025-02-16 at 12 55 58 AM">
+</a>
 
 ### 📦 Formatted Address Output  
-![Formatted Output](path/to/formatted_output_screenshot.png)  
 
-*(Replace the paths with actual screenshot locations when available.)*  
+<a href="https://github.com/user-attachments/assets/52d24568-9fcf-49ba-a3b6-44b70020f2a8">
+    <img src="https://github.com/user-attachments/assets/52d24568-9fcf-49ba-a3b6-44b70020f2a8" width="480" alt="Screenshot 2025-02-16 at 12 56 24 AM">
+</a>
 
 ---
 
